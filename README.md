@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Tugce41/Tugce41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an OSINT enthusiast with a background in cybersecurity and software development. 
 
-Here are some ideas to get you started:
+ I started getting into OSINT in 2019 by playing CTFs and ARGs and making information-gathering and processing tools 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
