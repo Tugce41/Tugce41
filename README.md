@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
+### Hi there I am Tuğçe👋
 I am an OSINT enthusiast with a background in cybersecurity and software development. 
 
- I started getting into OSINT in 2019 by playing CTFs and ARGs and making information-gathering and processing tools 
+I started getting into OSINT in 2019 by playing CTFs and ARGs and making information-gathering and processing tools 
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
